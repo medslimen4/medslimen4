@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Slimen</h1>
 <h3 align="center">A passionate Web&Mobile ,embedded systems & IoT developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **testini**
+- 🔭 I’m currently working on **Diatech**
 
-- 🌱 I’m currently learning **laravel , Flutter, c**
+- 🌱 I’m currently learning **laravel , Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/medslimen4](https://github.com/medslimen4)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-sliman-943a71147/](https://www.linkedin.com/in/mohamed-sliman-943a71147/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **medsliman4@gmail.com**
 
