@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Diatech**
 
-- 🌱 I’m currently learning **laravel , Flutter**
+- 🌱 I’m currently learning **laravel , Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/medslimen4](https://github.com/medslimen4)
 
