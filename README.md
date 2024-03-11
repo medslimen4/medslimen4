@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Slimen</h1>
-<h3 align="center">A passionate Web&Mobile ,embedded systems & IoT developer from Tunisia</h3>
+<h3 align="center">A passionate Web&Mobile ,IoT solutions developer and  from Tunisia</h3>
 
 - 🔭 I’m currently working on **Diatech**
 
