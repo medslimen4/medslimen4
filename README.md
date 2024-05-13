@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-sliman-943a71147/](https://www.linkedin.com/in/mohamed-sliman-943a71147/)
 
-- 💬 Ask me about **python** **C++**
+- 💬 Ask me about **python** , **C++**
 
 - 📫 How to reach me **medsliman4@gmail.com**
 
